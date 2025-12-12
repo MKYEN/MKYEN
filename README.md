@@ -26,6 +26,7 @@ I am a Senior Cisco Collaboration Engineer with nearly 15 years of experience in
 
 - AWS Certified Solutions Architect – Associate
 - Microsoft 365 Certified: Collaboration Communications Systems Engineer Associate
+- Microsoft Certified: Azure Network Engineer Associate (AZ-700)
 
 ---
 
