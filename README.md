@@ -47,8 +47,8 @@ Currently expanding expertise in Python automation, Terraform (IaC), cloud-nativ
 
 ## Certifications
 
-- AWS Certified Solutions Architect – Associate
-- Microsoft 365 Certified: Collaboration Communications Systems Engineer Associate
+- AWS Certified Solutions Architect – Associate (SAA-C03)
+- Microsoft 365 Certified: Collaboration Communications Systems Engineer Associate (MS-721)
 - Microsoft Certified: Azure Network Engineer Associate (AZ-700)
 
 
