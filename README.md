@@ -5,19 +5,11 @@ Hi there 👋
 
 ### Senior Cisco Collaboration & Cloud Engineer
 <small>
-15+ years of experience designing, deploying, and supporting enterprise-scale Unified Communications and hybrid collaboration environments.
-
-Strong background in Cisco Collaboration and Microsoft Teams voice integration, with hands-on involvement in large-scale migrations, multinational engineering teams and  cloud architectures.
-
-Currently expanding expertise in Python automation, Terraform (IaC), cloud-native and data engineering fundamentals to support scalable collaboration and cloud infrastructure platforms.
-
-## Core Expertise
 
 
-
-- 15+ years of experience designing, deploying, and supporting enterprise-scale Unified Communications and hybrid collaboration environments
-- Strong background in Cisco Collaboration and Microsoft Teams voice integration, with hands-on involvement in large-scale migrations and hybrid on-prem + cloud architectures
-- Currently expanding expertise in Python automation, Terraform (IaC), cloud-native, multi-cloud and data engineering fundamentals
+15+ years of experience designing, deploying, and supporting enterprise-scale Unified Communications and hybrid collaboration environments
+Strong background in Cisco Collaboration and Microsoft Teams voice integration, with hands-on involvement in large-scale migrations and hybrid on-prem + cloud architectures
+Currently expanding expertise in Python automation, Terraform (IaC), cloud-native, multi-cloud and data engineering fundamentals
 
 ## Core Expertise
 
