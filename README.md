@@ -4,20 +4,34 @@
 Hi there 👋
 
 ### Senior Cisco Collaboration & Cloud Engineer
+
 <small>
 
 
-15+ years of experience designing, deploying, and supporting enterprise-scale Unified Communications and hybrid collaboration environments
-Strong background in Cisco Collaboration and Microsoft Teams voice integration, with hands-on involvement in large-scale migrations and hybrid on-prem + cloud architectures
-Currently expanding expertise in Python automation, Terraform (IaC), cloud-native, multi-cloud and data engineering fundamentals
+10+ years of experience designing, deploying, and supporting enterprise-scale Unified Communications and hybrid collaboration environments
+
+Transitioning into Cloud Engineering & Automation, Terraform, AWS/Azure, recently started learning Python REST APIs (FastAPI), pytest and file I/O (JSON/Excel/PDF handling)
+
 
 ## Core Expertise
 
+ **Cloud Platforms**
+  - AWS: EC2, S3, IAM, CloudFront, API Gateway, Application Load Balancer (ALB)
+  - Azure: VNets, NSGs, VPN Gateway, Entra ID (Azure AD)
+
+- **Automation & IaC**
+  - Terraform (Infrastructure as Code)
+  - Python (automation, scripting, cloud operations)
+  - Bash
+  - PowerShell
+    
+
 - **Cisco Collaboration**
   - CUCM
+  - UCCX
   - Unity Connection
   - IM & Presence
-  - Expressway (MRA, B2B)
+  - Expressway 
   - Cisco Unified Attendant Console (CUAC)
   - CUBE
   - SIP / H.323 / MGCP / ISDN (PRI, QSIG)
@@ -27,15 +41,6 @@ Currently expanding expertise in Python automation, Terraform (IaC), cloud-nativ
   - Microsoft Teams Phone System
   - Direct Routing
 
-- **Cloud Platforms**
-  - AWS: EC2, S3, IAM, CloudFront, API Gateway, Application Load Balancer (ALB)
-  - Azure: VNets, NSGs, VPN Gateway, Entra ID (Azure AD)
-
-- **Automation & IaC**
-  - Terraform (Infrastructure as Code)
-  - Python (automation, scripting, cloud operations)
-  - Bash
-  - PowerShell
 
 ## Certifications
 
