@@ -13,7 +13,7 @@ Hi there 👋
 Transitioning into Cloud Engineering & Automation, Terraform, AWS/Azure, recently started learning Python REST APIs (FastAPI), pytest and file I/O (JSON/Excel/PDF handling)
 
 
-## Core Expertise
+
 
  **Cloud Platforms**
   - AWS: EC2, S3, IAM, CloudFront, API Gateway, Application Load Balancer (ALB)
