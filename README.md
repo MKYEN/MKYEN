@@ -17,7 +17,7 @@ Transitioning into Cloud Engineering & Automation, Terraform, AWS/Azure, recentl
 
  **Cloud Platforms**
   - AWS: EC2, S3, IAM, CloudFront, API Gateway, Application Load Balancer (ALB)
-  - Azure: VNets, NSGs, VPN Gateway, Entra ID (Azure AD)
+  - Azure: VNets, NSGs, VPN Gateway, Entra ID (Azure AD), (Key Vault, Managed Identity, RBAC) | Python | Azure SDK
 
 - **Automation & IaC**
   - Terraform (Infrastructure as Code)
