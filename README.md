@@ -47,6 +47,9 @@ Transitioning into Cloud Engineering & Automation, Terraform, AWS/Azure, recentl
 - AWS Certified Solutions Architect – Associate (SAA-C03)
 - Microsoft 365 Certified: Collaboration Communications Systems Engineer Associate (MS-721)
 - Microsoft Certified: Azure Network Engineer Associate (AZ-700)
+- Microsoft Certified: Azure Administrator Associate (AZ -104)
+- HashiCorp Certified: Terraform Associate (003) 
+
 
 
 
